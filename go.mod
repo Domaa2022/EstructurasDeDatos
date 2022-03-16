@@ -1,0 +1,3 @@
+module ESCTRUCTURAS
+
+go 1.17
